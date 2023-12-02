@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudarshan Tiwari</h1>
 <h2 align="center">a passionate Mobile Application Developer from Chemnitz, Germany</h3>
 
-<h3 align="center">I started getting involved with the Flutter Community in early 2020. And since then I’ve been involved in multiple developing process, built and contributed to open-source projects, and spoken in online and in-person with multiple meet-up events.
+<h3 align="left">I started getting involved with the Flutter Community in early 2020. And since then I’ve been involved in multiple developing process, built and contributed to open-source projects, and spoken in online and in-person with multiple meet-up events.
   
 Throughout my career and leisure times, I have demonstrated a commitment to excellence in Flutter Development, actively engaging in projects that spanned various facets of app development. And, I have successfully implemented unit testing, test mockups, and dummy data strategies embracing the principles of the Test-Driven Development TDD. 
   
