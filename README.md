@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudarshan Tiwari</h1>
 <h2 align="center">a passionate Mobile Application Developer from Chemnitz, Germany</h3>
 
-<h4 align="left">
+<h4 align="center">
   I started getting involved with the Flutter Community in early 2020. And since then I’ve been involved in multiple developing process, built and contributed to open-source projects, and spoken in online and in-person with multiple meet-up events.
   
 My expertise extends to different architectural patterns, including MVVM, MVC, MVP. I am well-versed in Clean Architecture principles, ensuring Clean code and flexibility. The integration of the Flutter-Bloc pattern, Flutter providers, Flutter cubits, and Dependency Injection in my projects reflects in creating modular and efficient codebases.
