@@ -1,24 +1,29 @@
-<h1 align="center">Hi 👋, I'm Sudarshan Tiwari</h1>
-<h2 align="center">a passionate Mobile Application Developer from Chemnitz, Germany</h3>
+<h1 align="left">Hi! I'm Sudarshan 👋</h1>
+<h2 align="center">a passionate Mobile Application Developer from Chemnitz, Germany</h3
 
-<h4 align="center">
-  I started getting involved with the Flutter Community in early 2021. And since then I’ve been involved in multiple developing process, built and contributed to open-source projects, and spoken in online and in-person with multiple meet-up events.
-  
-Throughout my career and leisure times, I have demonstrated a commitment to excellence in Flutter Development, actively engaging in projects that spanned various facets of app development.
+<h5 align="left">
+  I Have 3+ years of experience in building mobile applications. Familiar with various mobile development tools and frameworks like Android native with Java or Kotlin, and Flutter with Dart. Besides mobile development-specific areas, I also have a good understanding of general software engineering practices such as writing clean and maintainable code, conducting the Test-Driven Development (TDD) process, writing tests (unit, instrumental, integration), implementing clean architecture approaches, and design patterns. I always put perfection and high attention to detail in my work.
    </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan8420&label=Profile%20views&color=0e75b6&style=flat" alt="darshan8420" /> </p>
+- 👨🏻‍💻 Flutter Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshan8420" alt="darshan8420" /></a> </p>
+- 🔭 I’m currently working on
+    -   Creating Flutter Contents on Medium
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/sudarshantiwari101](https://www.behance.net/sudarshantiwari101)
+- 🎯 2024 Goals: Being a T-Shaped Mobile Engineer (Flutter, Dart)
 
-- 💬 Ask me about **dart, flutter**
+- 🌱 I’m Currently learning all about Dart, Flutter, Swift, iOS Development, and android Development. 
 
-- 📫 How to reach me **tiwarisudarshan84@gmail.com**
+- 💬 Ask me anything about Flutter 💙
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💼 My Services</h3>
+
+Do you need to build a high-quality mobile app? Whether you're a startup looking to launch your first mobile app or an established business aiming to enhance your digital presence, I'm here to help you every step of the way. From initial concept and design to development, testing, and deployment, I'm committed to delivering results that exceed your expectations.
+
+<h3 align="left">Featured Contents</h3>
+<h4 align="left">📒 Latest Blog Posts</h4>
+
 <p align="left">
 <a href="https://linkedin.com/in/sudarshan-tiwari-85b735257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudarshan-tiwari-85b735257/" height="30" width="40" /></a>
 <a href="https://dribbble.com/darshan_wari101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="darshan_wari101" height="30" width="40" /></a>
