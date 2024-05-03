@@ -1,5 +1,5 @@
 <h1 align="left">Hi! I'm Sudarshan 👋</h1>
-<h2 align="center">a passionate Mobile Application Developer from Chemnitz, Germany</h3
+<h2 align="center">a passionate Mobile Application Developer</h3
 
 <h5 align="left">
   I Have 3+ years of experience in building mobile applications. Familiar with various mobile development tools and frameworks like Android native with Java or Kotlin, and Flutter with Dart. Besides mobile development-specific areas, I also have a good understanding of general software engineering practices such as writing clean and maintainable code, conducting the Test-Driven Development (TDD) process, writing tests (unit, instrumental, integration), implementing clean architecture approaches, and design patterns. I always put perfection and high attention to detail in my work.
