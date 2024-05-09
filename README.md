@@ -8,7 +8,7 @@
 - 👨🏻‍💻 Flutter Developer
 
 - 🔭 I’m currently working on
-    -   Creating Flutter Contents on Medium
+    -   <a href= "https://medium.com/@sudarshan.tiwari101">Creating Flutter Contents </a> on Medium
 
 - 🎯 2024 Goals: Being a T-Shaped Mobile Engineer (Flutter, Dart)
 
@@ -24,11 +24,10 @@ Do you need to build a high-quality mobile app? Whether you're a startup looking
 <h2 align="left">Featured Contents</h3>
 <h4 align="left">📒 Latest Blog Posts</h4>
 
-- [Day 1 #30 DaysOfMedium Test Driven Development TDD on a API Based Application](https://medium.com/@sudarshan.tiwari101/day-1-30-daysofmedium-test-driven-development-tdd-on-a-api-based-application-879410af1cd5)
-- [Day 2 #30 DaysOfMedium Explanation on Three Types of Testing](https://medium.com/@sudarshan.tiwari101/day-2-30-daysofmedium-explanation-on-three-types-of-testing-6f8c86414f5b)
-- [Day 3 #30 DaysOfMedium State Management i.e BLoC and its effective way of implementation](https://medium.com/@sudarshan.tiwari101/day-3-30-daysofmedium-state-management-i-e-bloc-and-its-effective-way-of-implementation-486050e1c5a5)
-- [Day 4 #30 DaysOfMedium Organize Your “Global” Providers in Flutter Riverpod with Mixins](https://medium.com/@sudarshan.tiwari101/day-4-30-daysofmedium-organize-your-global-providers-in-flutter-riverpod-with-mixins-03a1473797dd)
-- [Day 5#30 DaysOfMedium What’s new in Flutter 3.19, Let’s discuss the Top Features.](https://medium.com/@sudarshan.tiwari101/day-5-30-daysofmedium-whats-new-in-flutter-3-19-let-s-discuss-the-top-features-804ab03c88a5)
+- [Test Driven Development TDD on a API Based Application](https://medium.com/@sudarshan.tiwari101/day-1-30-daysofmedium-test-driven-development-tdd-on-a-api-based-application-879410af1cd5)
+- [Explanation on Three Types of Testing](https://medium.com/@sudarshan.tiwari101/day-2-30-daysofmedium-explanation-on-three-types-of-testing-6f8c86414f5b)
+- [State Management i.e BLoC and its effective way of implementation](https://medium.com/@sudarshan.tiwari101/day-3-30-daysofmedium-state-management-i-e-bloc-and-its-effective-way-of-implementation-486050e1c5a5)
+- [What’s new in Flutter 3.19, Let’s discuss the Top Features.](https://medium.com/@sudarshan.tiwari101/day-5-30-daysofmedium-whats-new-in-flutter-3-19-let-s-discuss-the-top-features-804ab03c88a5)
 
 
 
