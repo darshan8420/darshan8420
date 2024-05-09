@@ -32,11 +32,11 @@ Do you need to build a high-quality mobile app? Whether you're a startup looking
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan8420&show_icons=true&locale=en&layout=compact" alt="darshan8420" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan8420&show_icons=true&locale=en&layout=compact&theme=dracula" alt="darshan8420" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan8420&show_icons=true&locale=en" alt="darshan8420" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan8420&show_icons=true&locale=en&theme=dracula" alt="darshan8420" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshan8420&" alt="darshan8420" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshan8420&" alt="darshan8420&theme=dracula" /></p>
 
 <h2 align="left">Projects</h3>
 
