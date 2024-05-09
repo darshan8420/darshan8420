@@ -169,7 +169,7 @@ A Flutter based-application built with multiple technologies integrated such as 
 	<tr>
   <td>
   <a href = "https://medium.com/@sudarshan.tiwari101/day-6-30-daysofmedium-concept-of-custom-painters-and-how-to-implement-them-47437319f733" rel="nofollow"> Concept of Custom Painters and How to Implement</a>
-    <p dir= "auto">Discover the power of Flutter’s Custom Painter and create stunning designs for your cross-platform app workings of the CustomPainter class and show you how to unleash your potential.<br> Today, we are going to talk about the clock and try to make it in simple custom painters method.</br></p>
+    <p dir= "auto">Discover the power of Flutter’s Custom Painter and create stunning designs for your cross-platform app workings of the CustomPainter class and show you how to unleash your potential.<br> Today, we are going to talk about the clock and try to make it in Custom Painters method.</br></p>
   </td>
   <td width="20%">
 🗓 May 07 2024
