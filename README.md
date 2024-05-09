@@ -12,7 +12,7 @@
 
 - 🎯 2024 Goals: Being a T-Shaped Mobile Engineer (Flutter, Dart)
 
-- 🌱 I’m Currently learning all about Dart, Flutter, Swift, iOS Development, and Android Development. 
+- 🌱 I’m currently learning all about Dart, Flutter, Swift, iOS Development, and Android Development. 
 
 - 💬 Ask me anything about Flutter 💙
 
