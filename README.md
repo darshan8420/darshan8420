@@ -143,21 +143,39 @@ A Flutter based-application built with multiple technologies integrated such as 
 <table>
   <tbody>
   <tr>
-  <th>
-  <a href = "https://medium.com/@sudarshan.tiwari101/day-1-30-daysofmedium-test-driven-development-tdd-on-a-api-based-application-879410af1cd5" rel="nofollow"> Test-Driven Deployment TDD on a API Based Application </a>
-    <p dir= "auto"> Recently, I got to know about different articles writings on Medium about different topics. As, I also had some knowledge about Flutter, Dart and Application development process, I gave a try to write on explaining different topics here on the website. I had to go over some basic principles of Test-Driven Deployment by exploring its techniques.<br> I am going to explain how we can apply the principles of the Tst Driven Development(TDD) to a basic Flutter project. </br></p>
-  </th>
-  <th width="15%">
+  <td>
+  <a href = "https://medium.com/@sudarshan.tiwari101/day-1-30-daysofmedium-test-driven-development-tdd-on-a-api-based-application-879410af1cd5" rel="nofollow" align="left"> Test-Driven Deployment TDD on a API Based Application </a>
+    <p dir= "auto"> Recently, I got to know about different articles writings on Medium about different topics. As, I also had some knowledge about Flutter, Dart and Application development process, I gave a try to write on explaining different topics here on the website. <br> I am going to explain how we can apply the principles of the Test-Driven Development(TDD) to a basic Flutter project. </br></p>
+  </td>
+  <td width="20%">
 🗓 Apr 29 2024
-</th>
+</td>
   </tr>
   <tr>
-  <th>
+  <td>
   <a href = "https://medium.com/@sudarshan.tiwari101/day-3-30-daysofmedium-state-management-i-e-bloc-and-its-effective-way-of-implementation-486050e1c5a5" rel="nofollow"> State Management i.e BLoC and its implementation </a>
-    <p dir= "auto"> Exploring various methods for managing state in Flutter apps through the bloc architecture, and enhancing the efficiency of bloc creation by leveraging the capabilities of the freezed package.<br> Here, we have a brief explanation about single-state design and multiple-state design with their optimization</br></p>
-  </th>
-  <th width="15%">
-🗓 Apr 29 2024
-</th>
+    <p dir= "auto"> Exploring various methods for managing state in Flutter apps through the bloc architecture, and enhancing the efficiency of bloc creation by leveraging the capabilities of the freezed package.<br> Here, we have a brief explanation about single-state design and multiple-state design with their optimization.</br></p>
+  </td>
+  <td width="20%">
+🗓 May 03 2024
+</td>
+  </tr>
+	<tr>
+  <td>
+  <a href = "https://medium.com/@sudarshan.tiwari101/day-4-30-daysofmedium-organize-your-global-providers-in-flutter-riverpod-with-mixins-03a1473797dd" rel="nofollow"> Basic Drawbacks of using Multiple State Managements</a>
+    <p dir= "auto"> I have got to know about different state management in flutter applications. After understanding the concept and implementation of multiple state managements, I tried to write something on them. <br>In this articel, I have tried to explain drawbacks of different State Management and what to avoid before using them. </br></p>
+  </td>
+  <td width="20%">
+🗓 May 05 2024
+</td>
+  </tr>
+	<tr>
+  <td>
+  <a href = "https://medium.com/@sudarshan.tiwari101/day-6-30-daysofmedium-concept-of-custom-painters-and-how-to-implement-them-47437319f733" rel="nofollow"> Concept of Custom Painters and How to Implement</a>
+    <p dir= "auto">Discover the power of Flutter’s Custom Painter and create stunning designs for your cross-platform app workings of the CustomPainter class and show you how to unleash your potential.<br> Today, we are going to talk about that clock and try to make it in simple custom painters method.</br></p>
+  </td>
+  <td width="20%">
+🗓 May 07 2024
+</td>
   </tr>
 </table>
