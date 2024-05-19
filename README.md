@@ -154,7 +154,7 @@ A Flutter based-application built with multiple technologies integrated such as 
     <p dir= "auto"> Exploring various methods for managing state in Flutter apps through the bloc architecture, and enhancing the efficiency of bloc creation by leveraging the capabilities of the freezed package.<br> Here, we have a brief explanation about single-state design and multiple-state design with their optimization.</br></p>
   </td>
   <td width="20%">
-🗓 May 03 2024
+🗓 May 02 2024
 </td>
   </tr>
 	<tr>
@@ -163,7 +163,7 @@ A Flutter based-application built with multiple technologies integrated such as 
     <p dir= "auto"> I have got to know about different state management in flutter applications. After understanding the concept and implementation of multiple state managements, I tried to write something on them. <br>In this articel, I have tried to explain drawbacks of different State Management and what to avoid before using them. </br></p>
   </td>
   <td width="20%">
-🗓 May 05 2024
+🗓 May 03 2024
 </td>
   </tr>
 	<tr>
@@ -172,7 +172,18 @@ A Flutter based-application built with multiple technologies integrated such as 
     <p dir= "auto">Discover the power of Flutter’s Custom Painter and create stunning designs for your cross-platform app workings of the CustomPainter class and show you how to unleash your potential.<br> Today, we are going to talk about the clock and try to make it in Custom Painters method.</br></p>
   </td>
   <td width="20%">
-🗓 May 07 2024
+🗓 May 05 2024
+</td>
+  </tr>
+	<tr>
+  <td>
+  <a href = "https://medium.com/@sudarshan.tiwari101/day-30-daysofmedium-when-should-you-use-isolates-in-flutter-bd682deb8535" rel="nofollow"> When should you use isolates in flutter</a>
+    <p dir= "auto">Whenever our application is handling computations that are large enough, which can temporarily block other computational operations, we need Isolates. 
+
+Isolates are like threads or processes. Apart from threads which runs on an event loop, each isolate has its own memory and its own event loop. I have discussed a few examples on the isolates. You can check them out. </br></p>
+  </td>
+  <td width="20%">
+🗓 May 06 2024
 </td>
   </tr>
 </table>
