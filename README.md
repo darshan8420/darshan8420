@@ -14,13 +14,7 @@
 
 - 🌱 I’m currently learning all about Dart, Flutter, Swift, iOS Development, and Android Development. 
 
-- 💬 Ask me anything about Flutter 💙
 
-
-
-<h3 align="left">💼 My Services</h3>
-
-Do you need to build a high-quality mobile app? Whether you're a startup looking to launch your first mobile app or an established business aiming to enhance your digital presence, I'm here to help you every step of the way. From initial concept and design to development, testing, and deployment, I'm committed to delivering results that exceed your expectations.
 
 <h2 align="left">Featured Contents</h3>
 <h4 align="left">📒 Latest Blog Posts</h4>
