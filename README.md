@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on
     -   <a href= "https://medium.com/@sudarshan.tiwari101">Creating Flutter Contents </a> on Medium
 
-- 🎯 2024 Goals: Being a T-Shaped Mobile Engineer (Flutter, Dart)
+- 🎯 2025 Goals: Being a T-Shaped Mobile Engineer (Flutter, Dart)
 
 - 🌱 I’m currently learning all about Dart, Flutter, Swift, iOS Development, and Android Development. 
 
